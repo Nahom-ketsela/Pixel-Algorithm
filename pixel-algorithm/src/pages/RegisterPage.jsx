@@ -12,8 +12,13 @@ function RegisterPage() {
                     </Link>
                 </button>
 
-                <div className="text-center mb-12">
-                    <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl">Join Pixel Algorithm</h1>
+                <div className="text-center mb-2">
+                    <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl lg:text-6xl mb-6">
+                        <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-400">
+                            Join
+                        </span>
+                        <span className="text-black-200"> Pixel Algorithm</span>
+                    </h1>
                     <p className="mt-4 text-xl text-gray-600 max-w-3xl mx-auto">
                         Register to become part of Ethiopia's growing tech community
                     </p>
